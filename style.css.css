@@ -1,0 +1,7 @@
+body{background-color: yellow;}
+.Friend-lists{list-style: none;}
+
+.Friend-lists .Friend-list a {color: #000000; text-decoration: none;}
+.Friend-lists .Friend-list a .Friend-thumbnail {border:solid 3px brown;border-radius:15px;}
+.Friend-lists .Friend-list a .Friend-info .Friend-name {font-size: 20px; color: #000000;}
+.Friend-lists .Friend-list a .Friend-info .Friend-intro {font-size: 15px; color: #424242; }
